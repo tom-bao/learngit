@@ -9,4 +9,4 @@ Git tracks changes of files.
 3
 this is dev branch
 thist a dbfr
-creating a new branch is quick & sample.
+creating a new branch is quick and simple.
